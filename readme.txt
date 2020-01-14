@@ -1,3 +1,3 @@
 yeni dosya
-ikinci eklenti
+yenibranch eklentisi ve ikinci eklenti
 
