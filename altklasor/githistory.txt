@@ -1,0 +1,23 @@
+commit 2d87f8e58487037a27ba6f52575c2231a1ff5c59
+Author: MuratTuz <murattuzlali@gmail.com>
+Date:   Mon Jan 13 21:18:00 2020 +0100
+
+    added .gitignore
+
+commit c35823d3a7609a9c50b9e0016f7b031b764be4d1
+Author: MuratTuz <murattuzlali@gmail.com>
+Date:   Mon Jan 13 20:35:32 2020 +0100
+
+    ucuncu degisiklik
+
+commit 057ae7526d957d81a5f3fa55b9314a8e60d372d5
+Author: MuratTuz <murattuzlali@gmail.com>
+Date:   Mon Jan 13 20:31:09 2020 +0100
+
+    second commit
+
+commit b6db3a408e084a593ba9eb4dbb0c050512d345ba
+Author: MuratTuz <murattuzlali@gmail.com>
+Date:   Mon Jan 13 20:22:56 2020 +0100
+
+    first commit
