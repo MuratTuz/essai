@@ -1,3 +1,2 @@
 yeni dosya
-master eklentisi veya da ucuncu ikinci eklenti
-
+master ve yenibranch eklentisi veya da ucuncu ikinci eklenti
