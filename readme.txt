@@ -1,3 +1,3 @@
 yeni dosya
-ya da ucuncu ikinci eklenti
+master eklentisi veya da ucuncu ikinci eklenti
 
